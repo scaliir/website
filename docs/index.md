@@ -16,7 +16,7 @@ Im using this project to learn more about all the technologies required to setup
     * office ( [collabora](https://www.collaboraonline.com), [nextcloud](https://nextcloud.com/) )
     * smart home ( [evcc](https://evcc.io/), [home-assistant](https://www.home-assistant.io/) )
     * finance ( [firefly-iii](https://www.firefly-iii.org/) )
-    * media ( [immich](https://immich.app/), [nextcloud](https://nextcloud.com/ )
+    * media ( [immich](https://immich.app/), [nextcloud](https://nextcloud.com/) )
     * mail ( [mailu](https://mailu.io) )
     * calendar ( [mailu](https://mailu.io) )
     * archive ( [piler](https://www.mailpiler.org/), [paperless-ngx](https://docs.paperless-ngx.com/) )
