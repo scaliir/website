@@ -22,6 +22,7 @@ Im using this project to learn more about all the technologies required to setup
     * archive ( [piler](https://www.mailpiler.org/), [paperless-ngx](https://docs.paperless-ngx.com/) )
     * all other helm or k8s resources you want.
     * all other virtual machines you need.
+        * either with [KubeVirt](https://kubevirt.io/) or [openstack](https://www.openstack.org/)
 
 * on top of your own kubernetes
 
@@ -31,6 +32,8 @@ Im using this project to learn more about all the technologies required to setup
 * on your own hardware, virtual private server or within the cloud
 
 All automatically kept up-to-date ( renovate ) and managed for you ( optional ).
+
+I also would like to have some kind of configuration-interface, but unsure if its an API, (Web)UI or just YAML.
 
 ## OpenSource
 
