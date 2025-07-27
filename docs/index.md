@@ -36,7 +36,7 @@ Im using this project to learn more about all the technologies required to setup
 
 All automatically kept up-to-date ( renovate ), deployed automatically (GitOps) and optionally even managed for you.
 
-I also would like to have some kind of configuration-interface, but unsure if its an API, (Web)UI or just YAML.
+I also would like to have some kind of configuration-interface, but unsure if its an API, (Web)UI or just YAML. I will probably use [Python](https://www.python.org/), [Go](https://go.dev/) or [Rust](https://www.rust-lang.org/) to write any required glue code.
 
 ## OpenSource
 
