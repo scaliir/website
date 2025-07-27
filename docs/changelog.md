@@ -15,7 +15,7 @@ first lets try to setup as easy as possible.
 
 * a 1-node kubernetes cluster
 * with local pv support
-* running some git ( forgjo ) within
+* running some git service within
 
 ## Releases
 

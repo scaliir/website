@@ -5,7 +5,11 @@ icon: house
 
 ## Here I will share my tested deployments with you!
 
-* run your prefered services like 
+Im running this kind of setup since years in my home-lab. Now im trying to make it available for everyone in a configurable more generic way.
+
+Im using this project to learn more about all the technologies required to setup such stuff, but also as some kind of showcase for linkedin, headhunters and future employers.
+
+* run your preferred services like
 
     * git ( [forgejo](https://forgejo.org/) )
     * ci/cd ( [argo-cd](https://argoproj.github.io/cd/) )
@@ -17,7 +21,7 @@ icon: house
     * calendar ( [mailu](https://mailu.io) )
     * archive ( [piler](https://www.mailpiler.org/), [paperless-ngx](https://docs.paperless-ngx.com/) )
     * all other helm or k8s resources you want.
-    * all other virtual maschines you need.
+    * all other virtual machines you need.
 
 * on top of your own kubernetes
 
