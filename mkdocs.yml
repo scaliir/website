@@ -1,0 +1,16 @@
+site_name: scallir.de
+site_url: https://www.scaliir.de/
+
+theme:
+  name: material
+  logo: favicon.png
+  favicon: favicon.png
+  custom_dir: overrides
+  palette:
+    scheme: default
+
+plugins:
+  - search
+  - meta
+
+# repo_url: https://github.com/scaliir/main
