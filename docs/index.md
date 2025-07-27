@@ -29,9 +29,13 @@ Im using this project to learn more about all the technologies required to setup
     * with lets-encrypt certificates ( [cert-manager](https://cert-manager.io/) )
     * as hyper-converged infrastructure ( [rook](https://rook.io/), [ceph](https://ceph.io), [longhorn](https://longhorn.io/) )
 
-* on your own hardware, virtual private server or within the cloud
+* on top of
 
-All automatically kept up-to-date ( renovate ) and managed for you ( optional ).
+    * your own hardware
+    * a virtual private server
+    * or within the cloud ( [AWS](https://aws.amazon.com), [GCP](https://cloud.google.com/), [Azure](https://azure.microsoft.com), ...)
+
+All automatically kept up-to-date ( renovate ), deployed automatically (GitOps) and optionally even managed for you.
 
 I also would like to have some kind of configuration-interface, but unsure if its an API, (Web)UI or just YAML.
 
