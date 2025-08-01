@@ -12,11 +12,6 @@ theme:
   - navigation.indexes
   - toc.follow
 
-nav:
-  - index.md
-  - blog/index.md
-  - contact.md
-
 plugins:
   - search
   - meta
@@ -24,8 +19,12 @@ plugins:
   - tags
   - blog:
       authors: false
-      archive: false
+      archive: true
       blog_toc: true
       post_readtime_words_per_minute: 265
 
 # repo_url: https://github.com/scaliir/main
+
+markdown_extensions:
+  - pymdownx.tasklist:
+      custom_checkbox: true
