@@ -1,7 +1,7 @@
 ---
 icon: house
 ---
-# Welcome to scallir.de
+# Welcome to scaliir.de
 
 ## Here I will share my tested deployments with you!
 
