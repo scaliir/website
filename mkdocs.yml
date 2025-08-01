@@ -8,9 +8,24 @@ theme:
   custom_dir: overrides
   palette:
     scheme: default
+  features:
+  - navigation.indexes
+  - toc.follow
+
+nav:
+  - index.md
+  - blog/index.md
+  - contact.md
 
 plugins:
   - search
   - meta
+#  - optimize
+  - tags
+  - blog:
+      authors: false
+      archive: false
+      blog_toc: true
+      post_readtime_words_per_minute: 265
 
 # repo_url: https://github.com/scaliir/main
