@@ -13,7 +13,7 @@ Best described by [themselves](https://www.talos.dev/v1.10/introduction/what-is-
 
 ## Quick 1-Node-PoC
 
-```bash
+```
 wget --timestamping curl https://factory.talos.dev/image/376567988ad370138ad8b2698212367b8edcb69b5fd68c80be1f2ec7d603b4ba/v1.10.5/metal-amd64.iso -O /var/lib/libvirt/images/metal-amd64.iso
 ```
 

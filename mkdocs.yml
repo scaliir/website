@@ -11,6 +11,7 @@ theme:
   features:
   - navigation.indexes
   - toc.follow
+  - content.code.copy
 
 plugins:
   - search
@@ -19,7 +20,7 @@ plugins:
   - tags
   - blog:
       authors: false
-      archive: true
+      archive: false
       blog_toc: true
       post_readtime_words_per_minute: 265
 
@@ -28,3 +29,15 @@ plugins:
 markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.superfences:
+      custom_fences:
+      - name: mermaid
+        class: mermaid
+        format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
