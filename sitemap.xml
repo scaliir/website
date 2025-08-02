@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://www.scaliir.de/index.html</loc>
+         <lastmod>2025-08-02</lastmod>
+    </url>
+    <url>
+         <loc>https://www.scaliir.de/ToDo.html</loc>
+         <lastmod>2025-08-02</lastmod>
+    </url>
+    <url>
+         <loc>https://www.scaliir.de/contact.html</loc>
+         <lastmod>2025-08-02</lastmod>
+    </url>
+    <url>
+         <loc>https://www.scaliir.de/blog/index.html</loc>
+         <lastmod>2025-08-02</lastmod>
+    </url>
+    <url>
+         <loc>https://www.scaliir.de/blog/2025/07/31/talos-linux.html</loc>
+         <lastmod>2025-08-02</lastmod>
+    </url>
+    <url>
+         <loc>https://www.scaliir.de/blog/2025/07/30/how-to-bootstrap-initial-node.html</loc>
+         <lastmod>2025-08-02</lastmod>
+    </url>
+    <url>
+         <loc>https://www.scaliir.de/blog/2025/08/02/flatcar.html</loc>
+         <lastmod>2025-08-02</lastmod>
+    </url>
+    <url>
+         <loc>https://www.scaliir.de/blog/2025/07/31/kubernetes-dist.html</loc>
+         <lastmod>2025-08-02</lastmod>
+    </url>
+</urlset>
